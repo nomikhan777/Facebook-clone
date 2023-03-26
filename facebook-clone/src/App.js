@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Header from "../src/Header"
 
 function App() {
   return (
@@ -8,8 +9,7 @@ function App() {
       <h1>Lets build the facebook clone!</h1>
 
 
-      {/* Header Section */}
-
+      <Header />
       {/* App Body */}
 
       {/* SideBar */}
