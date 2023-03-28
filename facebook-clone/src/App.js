@@ -1,17 +1,29 @@
 import React from 'react';
 import './App.css';
 import Header from "../src/Header"
+import Sidebar from './Sidebar';
 
 function App() {
   return (
     // BEM naming conventation
     <div className="app">
       <Header />
-      {/* App Body */}
 
+      <div className="app__body">
+        <Sidebar />
+
+      {/* App Body */}
       {/* SideBar */}
       {/* Feed */}
       {/* Widgets */}
+        
+      </div>
+
+
+
+
+
+
     </div>
   );
 }
