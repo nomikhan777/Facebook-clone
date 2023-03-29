@@ -6,6 +6,7 @@ function Feed() {
   return (
     <div className='feed'>
       <StoryReel/>
+      <MessageSender />
         {/* MessageSender */}
         
 
