@@ -18,7 +18,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <SidebarRow
-        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsonnysangha&psig=AOvVaw2FLuzSFnkWArkfgNi5IOp7&ust=1680115796223000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOim95ul__0CFQAAAAAdAAAAABAI"
+        src="https://avatars.githubusercontent.com/u/24712956?v=4"
         title=" Sunny Bhai"
       />
       <SidebarRow
