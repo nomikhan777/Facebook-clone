@@ -11,9 +11,19 @@ function Feed() {
       <MessageSender />
 
       <Post 
-      profilePic=""
+      profilePic="https://avatars.githubusercontent.com/u/24712956?v=4"
+      message=" wow this works!"
+      timestamp= "this is a timestamp"
+      username="Sangha bhai"
+      image="https://avatars.githubusercontent.com/u/24712956?v=4"
       />
-      <Post />
+      <Post 
+      profilePic="https://avatars.githubusercontent.com/u/24712956?v=4"
+      message=" wow this works!"
+      timestamp= "this is a timestamp"
+      username="Sangha bhai"
+      image="https://avatars.githubusercontent.com/u/24712956?v=4"
+      />
       <Post />
     
         
