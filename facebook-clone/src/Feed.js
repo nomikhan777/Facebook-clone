@@ -10,7 +10,9 @@ function Feed() {
       <StoryReel/>
       <MessageSender />
 
-      <Post />
+      <Post 
+      profilePic=""
+      />
       <Post />
       <Post />
     
